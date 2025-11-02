@@ -1,0 +1,50 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{GMAM24}
+
+\bibitem[GMAM24]{garcia2024lstm-garch}
+Andrés García-Medina and Ester Aguayo-Moreno.
+\newblock Lstm-garch hybrid model for the prediction of volatility in
+  cryptocurrency portfolios.
+\newblock {\em Computational Economics}, 63(4):1511--1542, 2024.
+\newblock URL:
+  \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC10013303/pdf/10614_2023_Article_10373.pdf}.
+
+\bibitem[hyb24]{hybrid_lstm_garch_2024}
+Hybrid lstm-garch framework for financial market volatility risk prediction.
+\newblock {\em Journal of Computer Science and Software Applications},
+  4(5):22--29, 2024.
+\newblock URL:
+  \url{https://www.mfacademia.org/index.php/jcssa/article/download/158/137}.
+
+\bibitem[KW18]{kim2018hybrid_lstm_garch}
+Hyoungjae Kim and Changhyeon Won.
+\newblock Forecasting the volatility of stock price index: A hybrid model
+  integrating lstm with multiple garch-type models.
+\newblock {\em Expert Systems with Applications}, 103:25--37, 2018.
+\newblock URL: \url{https://arxiv.org/pdf/2502.15813}.
+
+\bibitem[PTW24]{pan2024multi-garchlstm}
+Haojun Pan, Yuxiang Tang, and Guoqiang Wang.
+\newblock A stock index futures price prediction approach based on the
+  multi-garchlstm mixed model.
+\newblock {\em Mathematics}, 12(11):1677, 2024.
+\newblock URL: \url{https://www.mdpi.com/2227-7390/12/11/1677}.
+
+\bibitem[Ver21]{verma2021garch-rnn}
+S.~Verma.
+\newblock Forecasting volatility of crude oil futures using a garch-rnn hybrid
+  approach.
+\newblock {\em Intelligent Systems in Accounting, Finance and Management},
+  28(2), 2021.
+\newblock URL: \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/isaf.1489}.
+
+\bibitem[ZSB{\etalchar{+}}22]{zeng2022hybrid_xgboost_lstm}
+Haoran Zeng, Bolin Shao, Guang Bian, Hongzhe Dai, and Fan Zhou.
+\newblock A hybrid deep learning approach by integrating extreme gradient
+  boosting-long short-term memory with generalized autoregressive conditional
+  heteroskedasticity family models for natural gas load volatility prediction.
+\newblock {\em Energy Science \& Engineering}, 10(7), 2022.
+\newblock URL:
+  \url{https://scijournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.1122}.
+
+\end{thebibliography}
