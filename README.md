@@ -151,7 +151,7 @@ Similar structure to NDX, but using S&P 500 data and VIX index.
 If you use this code or methodology in your research, please cite:
 
 ```
-Yue Yihua, Rong Jia, Lv Zimeng, Xiao Tongren, Li Ke (2024).
+Yue Yihua, Rong Jia, Lv Zimeng, Xiao Tongren, Li Ke (2025).
 A Comparative Study of Hybrid LSTM Frameworks for Volatility Forecasting 
 in the NASDAQ-100 and S&P 500 Markets.
 ```
